@@ -1,0 +1,4 @@
+
+cblaster config --email "u2186477@live.warwick.ac.uk"
+
+cblaster search -qf query.fasta
